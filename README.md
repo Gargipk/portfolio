@@ -35,11 +35,6 @@ Explored and visualized trends in migration using Census 2011 data. Used statist
 - **Statistics**: Hypothesis testing, Regression, Econometrics
 - **Soft Skills**: Communication, Problem-solving, Team collaboration
 
----
-
-## Resume
-
-[View My Resume (PDF)](assets/resume.pdf)
 
 ---
 
